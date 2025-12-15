@@ -16,6 +16,8 @@ Hier findet ihr folgende Modelle im STL- und STEP-Format:
 - **Sägehilfe:** Auf den Karslby-Arbeitsplatten verwende ich die Abschlussleisten Hansbyn. Da mir ein Werkzeug fehlte, um sie im 45-Grad-Winkel absägen zu können, habe ich mir eins gebaut.
 - **Runde Abdeckung:** Nicht spektakulär, aber wenn man in die Rückwand der Metod-Schränke eine runde Aussparung sägt, ist sie mit 3D-gedruckter Abdeckung etwas schöner als mit offenen Kanten.
 
+<br/>
+
 ![Vorschaubild Minihacks](./doc/minihacks_preview.png)
 
 Die Übersichtsseite zum Printember 2025 **[findet ihr hier](https://www.heise.de/hintergrund/Printember-24-grossartige-3D-Drucke-bis-Weihnachten-11097227.html)**. Dort sind auch unsere Social-Media-Kanäle verlinkt, auf denen es Videos zu den vorgestellten Modellen gibt.
