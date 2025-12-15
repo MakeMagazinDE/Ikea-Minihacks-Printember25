@@ -10,7 +10,7 @@ Maker Media GmbH
 
 **Vorspann aus dem Heft**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/minihacks_aufmacher.png)
 
 ## Wer den Aufmacher skalieren muss:
 <img src="./doc/Aufmacher.JPG" width="50%" height="50%">
